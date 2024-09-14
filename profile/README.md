@@ -37,13 +37,3 @@ We design and develop robust backend services to support our clients' applicatio
 ### 6. Technology Consulting
 We offer expert technology consulting services, helping our clients find effective solutions to their software challenges, from process optimization to the implementation of new technologies.
 - **Contribution**: This service positions us as a trusted partner, always ready to guide our clients toward success through the adoption of best practices and emerging technologies.
-
-## 📈 Contributions
-
-We welcome contributions from the community! Please follow our [Contribution Guide](link-to-contribution-guide) for detailed instructions on how to get involved in improving our repositories.
-
-## 📄 License
-
-This repository is licensed under the MIT License. See the [LICENSE](link-to-license) file for more details.
-
-You can adjust this README further by adding any additional links for images, the license, and contribution guidelines as needed!
