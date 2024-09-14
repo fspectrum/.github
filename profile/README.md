@@ -1,7 +1,5 @@
-
-
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/111998a1-4138-472f-909e-5f617b50398c" alt="FullSpectrum Logo" width="250">
+  <img src="https://github.com/user-attachments/assets/d6b25aab-d077-42c4-8cdf-e40c4d668276" alt="FullSpectrum Logo" width="250">
 </p>
 
 # FullSpectrum - Creative Software Design
